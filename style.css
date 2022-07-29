@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.low-bright{
+    filter: brightness(50%);
+}
+.e-learning-back-color{
+    background-color: #F4FAFD;
+}
